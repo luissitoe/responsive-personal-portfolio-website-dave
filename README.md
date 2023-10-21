@@ -1,5 +1,6 @@
 # 💼 Responsive Personal Portfolio Website
-### [Watch it on youtube](https://youtu.be/9IfAYsRRWjE)
+
+Watch me build this project on my Youtube channel [Designedbyluis](https://youtu.be/9IfAYsRRWjE)
 
 ### Techonlogies Used
 
@@ -11,8 +12,8 @@
 
 - **Modern Design**
 - **Built Using Mobile-First Approach**
-- **BEM Methodology:** Clean and organized code using Block Element Modifier for naming CSS Classes
-- **ScrollReveal Animation:** Scroll-triggered Animations as you scroll down the page
+- **BEM Methodology**
+- **ScrollReveal Animation**
 - **Free Images from Unsplash**
 - **Free Font from Google Fonts** 
   
