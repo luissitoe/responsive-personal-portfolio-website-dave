@@ -1,6 +1,6 @@
 # 💼 Responsive Personal Portfolio Website
 
-Watch me build this project on my Youtube channel [Designedbyluis](https://youtu.be/9IfAYsRRWjE)
+Watch me building this project on my YouTube channel [Designedbyluis](https://youtu.be/9IfAYsRRWjE)
 
 ### Techonlogies Used
 
