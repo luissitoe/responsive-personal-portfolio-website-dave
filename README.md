@@ -17,7 +17,7 @@ Watch me building this project on my YouTube channel [Designedbyluis](https://yo
 - Free Images from Unsplash
 - Free Font from Google Fonts 
   
-You can view the live version by following the link [Go to Project](https://luissitoe.github.io/responsive-personal-portfolio-website-dave/){:target="_blank"}
+You can view the live version by following the link [Go to Project](https://luissitoe.github.io/responsive-personal-portfolio-website-dave/)
 
 
 ![preview img](/preview.png)
