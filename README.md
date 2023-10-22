@@ -14,6 +14,7 @@ Watch me building this project on my YouTube channel [Designedbyluis](https://yo
 - Built Using Mobile-First Approach
 - BEM Methodology
 - ScrollReveal Animation
+- SwiperJs Slider
 - Free Images from Unsplash
 - Free Font from Google Fonts 
   
