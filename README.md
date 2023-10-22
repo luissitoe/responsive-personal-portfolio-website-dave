@@ -2,12 +2,6 @@
 
 Watch me building this project on my YouTube channel [Designedbyluis](https://youtu.be/9IfAYsRRWjE)
 
-### Techonlogies Used
-
-- HTML
-- CSS
-- JavaScript
-
 ### Key Features
 
 - Modern Design
